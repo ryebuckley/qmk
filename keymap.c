@@ -150,7 +150,7 @@ const uint16_t PROGMEM keymaps[][MATRIX_ROWS][MATRIX_COLS] = {
  //╷         ╷         ╷         ╷         ╷         ╷         ╷╷             ╷         ╷         ╷         ╷         ╷         ╷
               KC_TRNS,  KC_TRNS,  KC_TRNS,  KC_TRNS,  KC_TRNS,   KC_TRNS,     KC_TRNS,   KC_TRNS,   KC_TRNS,   KC_TRNS,   
               CAPS,  KC_MPRV,  KC_MPLY,  KC_MNXT,  KC_TRNS,      DF(_QWERTY), KC_ESC,    KC_LGUI,   KC_TRNS,   KC_TRNS,
-    KC_CAPS,  KC_TRNS,  KC_TRNS,  KC_TRNS,  KC_TRNS,  KC_TRNS,   KC_TRNS,  CTL_ALT,   KC_TRNS,   KC_TRNS,   KC_TRNS,   KC_TRNS,
+    KC_CAPS,  KC_TRNS,  KC_TRNS,  KC_TRNS,  KC_TRNS,  KC_TRNS,   KC_TRNS,  CTL_ALT,   KC_DEL,   KC_TRNS,   KC_TRNS,   KC_TRNS,
                                   KC_TRNS,  KC_TRNS,  _______,   _______,   KC_NO,  _______  
  ),
 
